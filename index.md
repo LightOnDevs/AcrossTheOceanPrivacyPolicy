@@ -12,10 +12,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we collect and/or share certain personally identifiable information.
 
 **For correct App Functionality and Analytics Purposes, we collect and share to third party server, your Purchase History. This collection is mandatory and user can not request deletion of this collected data. Your data is never sold or given to other party.**
-**For correct App Functionality and Analytics Purposes, we collect and share to third party server your App Interactions e.g. the amount of time you play the game or number of times curtain game event happens. This collection is mandatory and user can not request deletion of this collected data. Your data is never sold or given to other party.**
 
-**To optionally keep the your Telegram contacts in sync with your phone contacts, "Telelight-Accessible Telegram" app collects your contact list and uploads it to Telegram servers if you allow it on consent screen. You can stop sending it to Telegram servers at anytime by denying the required permission in "Telelight-Accessible Telegram" app's settings. We won't use your contact list for any purpose other than described in this Privacy Policy.**
-### Log Data
+**For correct App Functionality and Analytics Purposes, we collect and share to third party server your App Interactions e.g. the amount of time you play the game or number of times curtain game event happens. This collection is mandatory and user can not request deletion of this collected data. Your data is never sold or given to other party.**
 
 We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.
 
